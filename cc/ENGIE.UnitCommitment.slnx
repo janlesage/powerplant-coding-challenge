@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../README.md" />
+  </Folder>
+  <Folder Name="/Solution Items/Examples/">
+    <File Path="../example_payloads/payload1.json" />
+    <File Path="../example_payloads/payload2.json" />
+    <File Path="../example_payloads/payload3.json" />
+    <File Path="../example_payloads/response3.json" />
+  </Folder>
+  <Project Path="ENGIE.UnitCommitment.Web/ENGIE.UnitCommitment.Web.csproj" />
+</Solution>
