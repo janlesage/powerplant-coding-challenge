@@ -13,11 +13,5 @@
         <Using Include="System.ComponentModel.DataAnnotations" />
         <Using Include="System.Text.Json.Serialization" />
     </ItemGroup>
-    
-    <ItemGroup>
-      <Content Include="..\.dockerignore">
-        <Link>.dockerignore</Link>
-      </Content>
-    </ItemGroup>
 
 </Project>

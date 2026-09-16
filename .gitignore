@@ -1,3 +1,5 @@
-﻿cc /.idea/
-cc/obj
-**/bin
+﻿.idea/
+cc/.idea/
+cc/ENGIE.UnitCommitment.Web/.idea/
+cc/ENGIE.UnitCommitment.Web/obj/
+cc/ENGIE.UnitCommitment.Web/bin/
